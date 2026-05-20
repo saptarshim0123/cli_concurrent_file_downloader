@@ -1,0 +1,6 @@
+# Public domain test files
+https://www.gutenberg.org/files/84/84-0.txt
+https://www.gutenberg.org/files/1342/1342-0.txt
+https://www.gutenberg.org/files/11/11-0.txt
+# this one will 404 — test your error handling
+https://www.gutenberg.org/files/99999/notreal.txt
